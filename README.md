@@ -64,10 +64,11 @@ Primary focus on plant bioinformatics and computational biology with special foc
 <p align="center"><a href="https://github.com/crispinjoekenslin-25">crispinjoekenslin-25</a></p>
 
 
-### 💭 Quote
+### 💭 Quote of the day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://codequote.vercel.app/api/quote.svg?theme=dracula" alt="Dev quote" />
+  <!-- https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight --> 
 </p>
 
 ---
