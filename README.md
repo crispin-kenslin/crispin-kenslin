@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1082&text=Hello!%20%20I'm%20Crispin%20Joe%20Kenslin" alt="Hello!  I&#39;m Crispin Joe Kenslin" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=1082&text=Hello!%20%20I'm%20Crispin%20Joe%20Kenslin" alt="Hello!  I&#39;m Crispin Joe Kenslin" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Multi-omics%20%7C%20AI;Working%20on%20plant-based%20computational%20analysis%20with%20multi-omic%20integrations%20and%20AI" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Bioinformatics%20%7C%20Computational%20Biology%20%7C%20Multi-omics%20%7C%20AI;Working%20on%20plant-based%20computational%20analysis%20with%20multi-omic%20integrations%20and%20AI" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
