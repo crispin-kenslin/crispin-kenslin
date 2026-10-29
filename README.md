@@ -60,11 +60,15 @@ Primary focus on plant bioinformatics and computational biology with special foc
   <a href="mailto:crispinjoekens004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 💭 Dev Quote
+### Visit my other GitHub account
+<p align="center"><a href="https://github.com/crispinjoekenslin-25">crispinjoekenslin-25</a></p>
+
+
+### 💭 Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/your-username">your-username</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/crispin-kenslin">crispin-kenslin</a></i></p>
